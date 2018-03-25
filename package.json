@@ -1,0 +1,35 @@
+{
+  "name": "puppeteer-hubot-mocha-sample",
+  "version": "0.0.0",
+  "private": true,
+  "author": "morinosubako <morinosubako.coffee@gmail.com>",
+  "description": "A simple helpful robot for your Company",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "chai": "^4.1.2",
+    "child_process": "^1.0.2",
+    "coffee-script": "^1.12.7",
+    "date-utils": "^1.2.21",
+    "fs": "0.0.1-security",
+    "hubot": "^2.19.0",
+    "hubot-diagnostics": "0.0.2",
+    "hubot-google-images": "^0.2.7",
+    "hubot-google-translate": "^0.2.1",
+    "hubot-help": "^0.2.2",
+    "hubot-heroku-keepalive": "^1.0.3",
+    "hubot-maps": "0.0.3",
+    "hubot-pugme": "^0.1.1",
+    "hubot-redis-brain": "0.0.4",
+    "hubot-rules": "^0.1.2",
+    "hubot-scripts": "^2.17.2",
+    "hubot-shipit": "^0.2.1",
+    "hubot-slack": "^4.4.0",
+    "mocha": "^5.0.5",
+    "path": "^0.12.7",
+    "puppeteer": "^1.2.0",
+    "request": "^2.85.0"
+  },
+  "engines": {
+    "node": "8.10.0"
+  }
+}

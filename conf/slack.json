@@ -1,0 +1,5 @@
+{
+  "endpoint": "https://slack.com/api/chat.postMessage",
+  "token": "YOUR_SLACK_TOKEN",
+  "userName": "mocha"
+}
